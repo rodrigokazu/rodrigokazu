@@ -1,22 +1,29 @@
 ORCID: orcid.org/0000-0002-3511-6439
 Scopus Author ID: 56590059200 
+Google Scholar: https://scholar.google.co.uk/citations?user=9L_gpmUAAAAJ&hl=en
 
-I'm an independent researcher with more than ten years of experience in Python, C/C++ and MATLAB. I'm currently helping people walk again by modelling tactile responses applied to real-time feedback prosthetics! I also won the INSIGNEO Showcase prize for best research with this project in 2019. 
+I am a research associate in computational neuroscience with experience in complex networks, comparative neuroanatomy and cell culturing. In the Active Touch Lab, I am helping people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! In addition to that, I am a member of INSIGNEO and a data scientist for the AMRC at the University of Sheffield. My research interests include general intelligence, network neuroscience and information processing in the somatosensory cortex.
 
-In my transition to the industry as a senior software engineer (technical lead) at the AMRC North West @ the University of Sheffield, I had two first-author conference abstracts accepted in the International MATADOR Conference on Advanced Manufacturing. 
+I also won the INSIGNEO Showcase prize for best research with this study in 2019 and the breakthrough was recently published in the journal iScience! 
 
-Now I am on a new step in my career which is very aligned with the main skill I have acquired in my career. I am a data scientist for the very prestigious Integrated Manufacturing Group at the very vibrant Factory 2050 at the University of Sheffield. 
+https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2
 
+The code for our model that simulates the neural afferents of the foot sole is available in this public repository: 
 
-My skills include Python, C/C++, MATLAB, R, data mining, databases, predictive analysis, data analytics, and complex networks. All of that with the communication of actionable results and insights demonstrated by my various talks and papers, most of which are available online. 
+https://github.com/ActiveTouchLab/footsim-python
 
-My latest research output in computational neuroscience was presented at the Neuromatch conference: https://youtu.be/-MLN6EcUxG0
+Now I am at a step in my career which is particularly aligned with the primary skill I have acquired over the years: I am a data scientist for the prestigious Integrated Manufacturing Group at the vibrant Factory 2050 at the University of Sheffield. Here I am leading a project that will shape the next generation of data scientists called NextGen and that showcases the capabilities of our data cloud: 
 
-My code can be accessed at https://github.com/rodrigokazu; 
+https://www.amrc.co.uk/news/driving-business-growth-through-low-cost-digital-tech
 
-Computational skills include C/C++, Python, MATLAB, Simulink, LUA, machine learning, data mining and formatting, databases, Linux, predictive analysis and data analytics.
+https://www.theengineer.co.uk/content/news/new-facilities-set-to-unlock-digital-potential-of-manufacturers/
 
-<!---
-rodrigokazu/rodrigokazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My primary computational skills include Python, C/C++, MATLAB, R, data mining, predictive analysis, data analytics, and complex networks. All of that with the communication of actionable results demonstrated by my various talks and papers, most of which are available online. 
+
+My latest research output in computational neuroscience was presented at the Neuromatch conference: 
+
+https://youtu.be/-MLN6EcUxG0
+
+Most of my code can be accessed at https://github.com/rodrigokazu; 
+
+Additional computational skills include Databricks, Docker, Simulink, LUA, machine learning, Unix, and data analytics.
