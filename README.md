@@ -21,8 +21,6 @@ My latest research output in computational neuroscience was presented at the Neu
 
 https://youtu.be/-MLN6EcUxG0
 
-Most of my code can be accessed at https://github.com/rodrigokazu;
-
 Google Scholar: https://scholar.google.co.uk/citations?user=9L_gpmUAAAAJ&hl=en
 
 I am also a Sheffield Data Science and AI community member at the University of Cambridge's post-doc academy.
