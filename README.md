@@ -3,24 +3,4 @@ https://neuroscience.cam.ac.uk/member/rodrigokazu/
 ORCID: orcid.org/0000-0002-3511-6439
 Scopus Author ID: 56590059200 
 
-I have a PhD in Cybernetics and am currently focused on computational neuroscience and complex networks at the Wellcome Sanger Institute and Cambridge Neuroscience (University of Cambridge). Previously, I helped people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! 
-
-I also won the INSIGNEO Showcase prize for best research with this study in 2019 and the breakthrough was recently published in the journal iScience!
-
-https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics
-
-https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml
-
-The code for our model that simulates the neural afferents of the foot sole is available here: 
-
-https://github.com/ActiveTouchLab/footsim-python
-
-My research interests include general intelligence, network neuroscience, brain development and brain evolution. Additionally, I am trying to understand cell fates in Glioblastoma Multiforme.
-
-My latest research output in computational neuroscience was presented at the Neuromatch conference: 
-
-https://youtu.be/-MLN6EcUxG0
-
-Google Scholar: https://scholar.google.co.uk/citations?user=9L_gpmUAAAAJ&hl=en
-
-I am also a Sheffield Data Science and AI community member at the University of Cambridge's post-doc academy.
+I am a Brazilian-born British computational genomics researcher with a PhD in Cybernetics from the University of Reading, currently at the Sheffield Institute for Translational Neuroscience (SITraN) jointly with the Stanford Centre for Genomics, affiliated with Cambridge Neuroscience. From an undergraduate degree in biology in Rio de Janeiro to a master's in neuroscience centred on brain evolution in artiodactyls, with publications in Frontiers in Neuroanatomy (2014) and PNAS (2019), I got CNPq scholarship that funded a PhD in Cybernetics at the University of Reading, where I built open-source toolboxes for neuronal signal analysis. That investment paid off in my first postdoc at the Active Touch Laboratory, University of Sheffield: a computational model of the tactile responses of the human foot sole, designed to restore real-time sensory feedback to prosthetic limb users. The work won the INSIGNEO Institute prize for best research, was published in iScience (2022), and was covered as a breakthrough in neuroprosthetics: After a stint in industry, I got back to the Wellcome Sanger Institute and then joined the Cooper-Knock lab at SITraN, where I hold a joint appointment with the Stanford Centre for Genomics. At SITraN, I lead the largest ALS single-cell multiome dataset assembled to date, 788,330 nuclei across 70 donors, mapping the regulatory architecture of motor neuron degeneration, including a WDR49+ astrocyte subpopulation that is protective against the disease. Additionally, I've built an end-to-end 10x Xenium spatial transcriptomics pipeline applied to human post-mortem ALS/MND spinal cord, glioblastoma, and spinal cord injury tissue that integrates DOT-based deconvolution, spatial niche identification (NicheCompass/Novae), and network controllability to spatially resolve GWAS-enriched cell populations and glial niche architecture. A third project examining TDP-43-mediated splicing dysregulation as a shared mechanism across ALS, FTD, and Alzheimer's disease is currently in review at Nature. 
